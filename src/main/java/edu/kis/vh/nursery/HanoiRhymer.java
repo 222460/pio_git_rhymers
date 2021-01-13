@@ -15,3 +15,5 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
             super.countIn(in);
     }
 }
+//Dzialanie alt + strzalka
+// Dla edytora intelij rzeskok miedzy otwartymi kartami
