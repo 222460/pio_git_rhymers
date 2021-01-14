@@ -7,7 +7,7 @@ public class DefaultCountingOutRhymer {
     public int getTotal() {
         return total;
     }
-
+///
 
     private int total = -1;
 
