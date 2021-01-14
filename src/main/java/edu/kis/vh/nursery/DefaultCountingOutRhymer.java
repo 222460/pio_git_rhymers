@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+//
 public class DefaultCountingOutRhymer {
 
     public static final int INDICATOR = 11;
@@ -7,7 +7,7 @@ public class DefaultCountingOutRhymer {
     public static final int EMPTY = -1;
     public static final int INDEX = -1;
     final private int[] NUMBERS = new int[STACK_MAX_SIZE];
-
+//
     public int total = INDEX;
 
     public void countIn(int in) {
